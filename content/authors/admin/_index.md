@@ -28,22 +28,22 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: 'younger.hua@outlook.com'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/wowchemy
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://www.instagram.com/spacex/
   - icon: weibo
     icon_pack: fab
     link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
+  # - icon: tiktok
+  #   icon_pack: fab
+  #   link: https://www.tiktok.com/@spacex.to.mars
+  - icon: linkin
     icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://www.linkedin.cn/incareer/in/ACoAADXuc0kBTfidbAWbJKLc1Ss60XNt5SB5lEY
   - icon: github
     icon_pack: fab
     link: https://github.com/BobYounger
