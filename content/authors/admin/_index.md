@@ -1,7 +1,16 @@
+<!--
+ * @Author: Younger Hua
+ * @Date: 2022-12-05 19:51:19
+ * @LastEditors: younger younger.hua@outlook.com
+ * @LastEditTime: 2022-12-05 19:52:34
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by ${DreamChaser}, All Rights Reserved. 
+-->
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 华骏扬
+name_pronunciation: Hua Junyang
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,7 +37,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'younger.hua@outlook.com'
+    link: 'mailto:younger.hua@outlook.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/wowchemy
@@ -41,7 +50,7 @@ social:
   # - icon: tiktok
   #   icon_pack: fab
   #   link: https://www.tiktok.com/@spacex.to.mars
-  - icon: linkin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.cn/incareer/in/ACoAADXuc0kBTfidbAWbJKLc1Ss60XNt5SB5lEY
   - icon: github
