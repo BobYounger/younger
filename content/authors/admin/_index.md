@@ -1,12 +1,3 @@
-<!--
- * @Author: Younger Hua
- * @Date: 2022-12-05 19:51:19
- * @LastEditors: younger younger.hua@outlook.com
- * @LastEditTime: 2022-12-05 19:52:34
- * @Description: 
- * 
- * Copyright (c) 2022 by ${DreamChaser}, All Rights Reserved. 
--->
 ---
 # Display name
 title: 华骏扬
